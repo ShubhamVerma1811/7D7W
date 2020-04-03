@@ -30,7 +30,7 @@
 
 ## Insure Landing Page
 
-### Live Demo - [Fylo](https://shubhamverma.me/Insure)
+### Live Demo - [Insure](https://shubhamverma.me/Insure)
 
 ### Project Repo - [Insure](https://github.com/ShubhamVerma1811/Insure)
 
