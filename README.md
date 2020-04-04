@@ -1,10 +1,10 @@
 # 7 Days 7 Websites
 
-#### (All the websites at the moment are Desktop Version only, Mobile responsive will be updated soon)
+#### (All the websites at the moment are Desktop Version only 💻, Mobile responsive Version 📱 will be updated soon )
 
-# DAY 1
+# DAY 1  
 
-## Huddle Landing Page
+## Huddle Landing Page 💻
 
 ### Live Demo - [Huddle](https://shubhamverma.me/Huddle)
 
@@ -12,7 +12,7 @@
 
 # DAY 2
 
-## Fylo Landing Page
+## Fylo Landing Page 💻
 
 ### Live Demo - [Fylo](https://shubhamverma.me/Fylo)
 
@@ -20,7 +20,7 @@
 
 # DAY 3
 
-## Project Tracking Landing Page
+## Project Tracking Landing Page 💻
 
 ### Live Demo - [Project Tracking](https://shubhamverma.me/PTracking)
 
@@ -28,7 +28,7 @@
 
 # DAY 4
 
-## Insure Landing Page
+## Insure Landing Page 💻
 
 ### Live Demo - [Insure](https://shubhamverma.me/Insure)
 
@@ -36,7 +36,7 @@
 
 # DAY 5
 
-## EasyBank Landing Page
+## EasyBank Landing Page 💻
 
 ### Live Demo - [EasyBank](https://shubhamverma.me/EasyBank)
 
@@ -44,7 +44,7 @@
 
 # DAY 6
 
-## Shortly | URL Shortner Landing Page
+## Shortly | URL Shortner Landing Page 💻
 
 ### Live Demo - [Shortly](https://shubhamverma.me/Shortly)
 
@@ -52,8 +52,8 @@
 
 # DAY 7
 
-## * Landing Page
+## Manage Landing Page 💻
 
-### Live Demo - [*](https://shubhamverma.me/*)
+### Live Demo - [Manage](https://shubhamverma.me/Manage)
 
-### Project Repo - [*](https://github.com/ShubhamVerma1811/*)
+### Project Repo - [Manage](https://github.com/ShubhamVerma1811/Manage)
