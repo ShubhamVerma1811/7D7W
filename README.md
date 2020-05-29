@@ -1,6 +1,6 @@
 # 7 Days 7 Websites
 
-#### (All the websites at the moment are Desktop Version only 💻, Mobile responsive Version 📱 will be updated soon )
+#### (All the websites at the moment are Desktop Version only 💻)
 
 # DAY 1  
 
